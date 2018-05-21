@@ -142,6 +142,13 @@ Plug 'tpope/vim-dispatch'
 " Plug 'mdelillo/vim-simple-bdd'
 Plug 'janko-m/vim-test'
 
+"
+" Markdown help
+"
+Plug 'junegunn/goyo.vim'
+Plug 'junegunn/limelight.vim'
+Plug 'reedes/vim-pencil'
+
 " Initialize plugin system
 call plug#end()
 
