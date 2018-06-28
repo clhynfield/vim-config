@@ -114,6 +114,7 @@ lets you view and cycle through your previous copy and paste registers on the fl
 * [test_server](https://github.com/brysgo/test_server) lets you use F9 thru F12 to run specs and report the output in vim.
 * [vim-simple-bdd](https://github.com/mdelillo/vim-simple-bdd) generates method declarations from [simple_bdd](https://github.com/robb1e/simple_bdd) steps
 * [vim-tmux-navigatore](https://github.com/christoomey/vim-tmux-navigator) navigate seamlessly between vim and tmux panes
+* [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) Show Git working copy status in NERDTree 
 
 ## Colorschemes
 * [Vivid Chalk](https://github.com/tpope/vim-vividchalk)

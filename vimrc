@@ -142,6 +142,7 @@ Plug 'tpope/vim-dispatch'
 " Plug 'brysgo/test_server'
 " Plug 'mdelillo/vim-simple-bdd'
 Plug 'janko-m/vim-test'
+Plug 'Xuyuanp/nerdtree-git-plugin'
 
 "
 " Markdown help
