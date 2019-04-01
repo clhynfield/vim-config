@@ -143,7 +143,7 @@ Plug 'tpope/vim-dispatch'
 " Plug 'mdelillo/vim-simple-bdd'
 Plug 'janko-m/vim-test'
 Plug 'Xuyuanp/nerdtree-git-plugin'
-
+Plug 'aliou/bats.vim'
 "
 " Markdown help
 "

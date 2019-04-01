@@ -115,6 +115,7 @@ lets you view and cycle through your previous copy and paste registers on the fl
 * [vim-simple-bdd](https://github.com/mdelillo/vim-simple-bdd) generates method declarations from [simple_bdd](https://github.com/robb1e/simple_bdd) steps
 * [vim-tmux-navigatore](https://github.com/christoomey/vim-tmux-navigator) navigate seamlessly between vim and tmux panes
 * [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) Show Git working copy status in NERDTree 
+* [bats](https://github.com/aliou/bats.vim) Syntax highlighting for Bash Automated Testing System ([bats](https://github.com/bats-core/bats-core))
 
 ## Colorschemes
 * [Vivid Chalk](https://github.com/tpope/vim-vividchalk)
