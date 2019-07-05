@@ -17,18 +17,13 @@ set nocompatible               " be iMproved
 filetype off                   " required!
 
 call plug#begin('~/.vim/plugged')
+
 "
 " Colorschemes
 "
 Plug 'tpope/vim-vividchalk'
-" Plug 'chriskempson/base16-vim'
-" Plug 'molokai'
 " Plug 'altercation/vim-colors-solarized'
-" Plug 'wgibbs/vim-irblack'
 Plug 'chriskempson/vim-tomorrow-theme'
-" Plug 'candycode.vim'
-" Plug 'Colour-Sampler-Pack'
-" Plug 'flazz/vim-colorschemes'
 
 "
 " Ruby / Rails
