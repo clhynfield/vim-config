@@ -156,6 +156,8 @@ syntax on
 
 runtime! init/**.vim
 
+colorscheme Tomorrow-Night
+
 if filereadable($HOME . "/.vimrc.local")
   source ~/.vimrc.local
 endif
