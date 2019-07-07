@@ -24,6 +24,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'tpope/vim-vividchalk'
 " Plug 'altercation/vim-colors-solarized'
 Plug 'chriskempson/vim-tomorrow-theme'
+Plug 'edkolev/tmuxline.vim'
 
 "
 " General Editing

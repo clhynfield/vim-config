@@ -169,3 +169,13 @@ To upgrade bundles to their latest version, use the bang version:
 
 If you will be using VIM with tmux for remote pairing or window management, see
 the [pivotal/tmux-config README](https://github.com/pivotal/tmux-config).
+
+To set the tmux status line to match Vim's:
+
+    vim +'Tmuxline airline' +'TmuxlineSnapshot ~/.tmux/vim-tmuxline.conf' +'qall'
+
+Then add the following to .tmux.conf:
+
+    if-shell "test -f ~/.tmux/vim-tmuxline.conf" "source ~/.tmux/vim-tmuxline.conf"
+
+For more information, see [tmuxline](https://github.com/edkolev/tmuxline.vim#readme)
