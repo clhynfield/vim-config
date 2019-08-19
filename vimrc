@@ -92,6 +92,8 @@ Plug 'tpope/vim-vinegar'
 " Languages
 "
 
+Plug 'dense-analysis/ale'
+
 Plug 'vim-ruby/vim-ruby'
 " Plug 'tpope/vim-rails'
 Plug 'tpope/vim-endwise'
@@ -162,3 +164,4 @@ colorscheme Tomorrow-Night
 if filereadable($HOME . "/.vimrc.local")
   source ~/.vimrc.local
 endif
+
