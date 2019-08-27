@@ -94,44 +94,12 @@ Plug 'tpope/vim-vinegar'
 
 Plug 'dense-analysis/ale'
 
-Plug 'vim-ruby/vim-ruby'
-" Plug 'tpope/vim-rails'
 Plug 'tpope/vim-endwise'
-" Plug 'ecomba/vim-ruby-refactoring'
-" Plug 'nelstrom/vim-textobj-rubyblock'
-" Plug 'jgdavey/vim-blockle'
-" Plug 'tpope/vim-rbenv'
-" Plug 'tpope/vim-rake'
-" Plug 'slim-template/vim-slim'
-" Plug 'tpope/vim-haml'
-" Plug 'tpope/vim-cucumber'
-" Plug 'quentindecock/vim-cucumber-align-pipes'
-
-Plug 'pangloss/vim-javascript'
-" Plug 'kchmck/vim-coffee-script'
-" Plug 'nono/vim-handlebars'
-" Plug 'juvenn/mustache.vim'
-" Plug 'elzr/vim-json'
-" Plug 'briancollins/vim-jst'
-" Plug 'digitaltoad/vim-jade'
-" Plug 'mxw/vim-jsx'
-" Plug 'lambdatoast/elm.vim'
-" Plug 'leafgarland/typescript-vim'
 
 Plug 'plasticboy/vim-markdown'
 Plug 'junegunn/goyo.vim'
 Plug 'junegunn/limelight.vim'
 Plug 'reedes/vim-pencil'
-
-Plug 'fatih/vim-go'
-
-" Plug 'rosstimson/scala-vim-support'
-
-" Plug 'guns/vim-clojure-static'
-
-" Plug 'chrisbra/csv.vim'
-
-Plug 'wlangstroth/vim-racket'
 
 Plug 'aliou/bats.vim'
 
