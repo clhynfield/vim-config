@@ -121,6 +121,7 @@ Plug 'tpope/vim-dispatch'
 " Plug 'mdelillo/vim-simple-bdd'
 Plug 'janko-m/vim-test'
 Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'git-time-metric/gtm-vim-plugin'
 
 " Initialize plugin system
 call plug#end()
