@@ -93,6 +93,10 @@ Plug 'tpope/vim-vinegar'
 "
 
 Plug 'dense-analysis/ale'
+let g:ale_completion_enabled = 1
+set omnifunc=ale#completion#OmniFunc
+
+Plug 'fatih/vim-go'
 
 Plug 'tpope/vim-endwise'
 
