@@ -3,3 +3,4 @@ doc/tags
 .vimlog
 plugged/*
 .git-together
+/.gtm/
