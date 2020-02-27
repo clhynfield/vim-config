@@ -101,6 +101,7 @@ Plug 'fatih/vim-go'
 Plug 'tpope/vim-endwise'
 
 Plug 'plasticboy/vim-markdown'
+    let g:vim_markdown_fenced_languages = ['shell=sh']
 Plug 'junegunn/goyo.vim'
 Plug 'junegunn/limelight.vim'
 Plug 'reedes/vim-pencil'
