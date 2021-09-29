@@ -133,7 +133,9 @@ syntax on
 
 runtime! init/**.vim
 
-silent! colorscheme Tomorrow-Night
+if filereadable($HOME . "/.vimrc/plugged/vim-tomorrow-theme/colors/Tomorrow-Night.vim")
+  silent! colorscheme Tomorrow-Night
+endif
 
 if filereadable($HOME . "/.vimrc.local")
   source ~/.vimrc.local
